@@ -17,4 +17,6 @@ Do look at the list of imports to make sure you have the right python libraries 
 
 Tested on Raspbery Pi Module B (original) but should work on any Raspberry Pi
 
+A demo of the board can be found on YouTube here: https://youtu.be/oh6qLsTQRNE
+
 Enjoy!
