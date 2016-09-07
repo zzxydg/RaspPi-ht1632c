@@ -1,4 +1,4 @@
-# RaspberryPi
+# RaspberryPi HT1632C
 
 A repository for all things Raspberry Pi and related to HT1632C LED Driver
 
